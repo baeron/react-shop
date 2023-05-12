@@ -14,8 +14,8 @@ const Navigation = () => {
             Home
           </Link>
         </div>
-        <Outlet />
       </div>
+      <Outlet />
     </Fragment>
   )
 }
